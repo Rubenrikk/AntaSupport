@@ -2,5 +2,4 @@
 .swiftpm/
 DerivedData/
 *.xcuserstate
-build/
 .DS_Store
